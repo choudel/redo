@@ -1,2 +1,2 @@
 <h1>Welcome to SvelteKit</h1>
-<a href="/about">About the site</a>
+<a href="/blog">blog of the site</a>
